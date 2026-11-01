@@ -1,0 +1,30 @@
+[
+  {
+    "id": "001",
+    "nome": "Ana Júlia",
+    "cidade": "Balsas - MA",
+    "observacao": "Cliente ativo",
+    "codigo": "000123"
+  },
+  {
+    "id": "002",
+    "nome": "João Pedro",
+    "cidade": "São Luís - MA",
+    "observacao": "Endereço: Rua A, nº 10",
+    "codigo": "000045"
+  },
+  {
+    "id": "003",
+    "nome": "María Clara",
+    "cidade": "Imperatriz - MA",
+    "observacao": "Atendimento \"prioritário\"",
+    "codigo": "001007"
+  },
+  {
+    "id": "004",
+    "nome": "César Alves",
+    "cidade": "Teresina - PI",
+    "observacao": "Revisão agendada",
+    "codigo": "000009"
+  }
+]
